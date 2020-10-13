@@ -6,4 +6,5 @@
 /firmware.map
 /mklink.bat
 /output
+venv
 Homekit*
